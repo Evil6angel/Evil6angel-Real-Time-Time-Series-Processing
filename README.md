@@ -13,4 +13,4 @@ This project implements a real-time processing pipeline for Bitcoin time-series 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your_username>/real-time-bitcoin-processing.git
+   git clone https://github.com/evil6angel/Evil6angel-Real-Time-Time-Series-Processing.git
